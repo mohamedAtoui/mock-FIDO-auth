@@ -1,6 +1,7 @@
 # Mock FIDO2 Authentication
 
 A simple demonstration of FIDO2-like authentication using Streamlit. This application simulates the core concepts of FIDO2 authentication in a simplified way.
+'<img width="1607" alt="Screenshot 2025-05-07 at 18 43 19" src="https://github.com/user-attachments/assets/dee67490-f11b-4af8-bd37-4384dcd175fa" />
 
 ## Features
 
